@@ -1,5 +1,5 @@
 Hello world!!!!!
 
-Change 1 – commit with message as “Change1 in File1”
+Change 1 – commit with message as “Change1 in File1” updated to test rebase
 Change 2 – commit with message as “Change2 in File1”
 Change 3 - file updated by teammates to test rebase
